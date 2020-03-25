@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3ffa1e92565aa5646bb53338ee8b9e68
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PauseOverlay: {instanceID: 0}
+  - aSource: {instanceID: 0}
+  - awesomeness: {fileID: 8300000, guid: 0be9ec062c17be541b9c34a6ff4c81df, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
